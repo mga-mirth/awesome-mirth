@@ -1,5 +1,7 @@
 <!-- badges -->
 
+<!--lint ignore awesome-git-repo-age-->
+
 <div align="center">
 
 <!-- title -->
