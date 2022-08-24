@@ -1,6 +1,6 @@
 <!-- badges -->
 
-<!--lint ignore awesome-git-repo-age-->
+<!--lint disable awesome-git-repo-age-->
 
 <div align="center">
 
