@@ -1,21 +1,25 @@
 <!-- badges -->
+
 <div align="center">
 
 <!-- title -->
+
 <!--lint ignore no-dead-urls-->
-# Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/mga-mirth/awesome-mirth/workflows/)
+
+# Awesome Mirth [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mga-mirth/awesome-mirth/actions/workflows/mint.yml/badge.svg)](https://github.com/mga-mirth/awesome-mirth/actions/workflows/mint.yml)
 
 <!-- subtitle -->
 
 The most **up to date** list of Mirth docs, talks, tools, examples & articles the internet has to offer.
 
+</div>
 <!-- toc -->
 
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
 - [Official Docs & Quickstarts](#official-docs--quickstarts)
-- [Mirth Extensions](#firebase-extensions)
+- [Mirth Extensions](#mirth-extensions)
 - [Other](#other)
 - [Follow](#follow)
 
@@ -25,9 +29,9 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 ## Featured (new releases)
 
-- [Release Notes Wiki pages](https://github.com/nextgenhealthcare/connect/wiki/Release-Notes) - All Release Notes
-- [Mirth Download](https://www.nextgen.com/products-and-services/mirth-connect-downloads) - Official Mirth Connect Download
-- [Source Code](https://github.com/nextgenhealthcare/connect) - Mirth Connect source code
+- [Release Notes Wiki pages](https://github.com/nextgenhealthcare/connect/wiki/Release-Notes) - All Release Notes.
+- [Mirth Download](https://www.nextgen.com/products-and-services/mirth-connect-downloads) - Official Mirth Connect Download.
+- [Source Code](https://github.com/nextgenhealthcare/connect) - Mirth Connect source code.
 
 ## Official Docs & Quickstarts
 
@@ -35,8 +39,8 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 ## Mirth Extensions
 
-- 🔧 [Version Control Extension for MirthConnect ](https://github.com/kayyagari/git-ext) - Version control for Channels and CodeTemplate 
-- 🔧 [Sync code between environments](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments 
+- 🔧 [Version Control Extension for MirthConnect](https://github.com/kayyagari/git-ext) - Version control for Channels and CodeTemplate.
+- 🔧 [Sync code between environments](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments.
 
 ## Other
 
@@ -44,6 +48,8 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 ### Official
 
-- 📹 [Firebase YouTube](https://www.twitter.com/nextgen)
+- 📹 [Mirth Twitter](https://www.twitter.com/nextgen)
 
 ### Community
+
+- [This Awesome List](https://github.com/mga-mirth/awesome-mirth)
