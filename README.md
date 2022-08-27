@@ -22,6 +22,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 - [Featured (new releases)](#featured-new-releases)
 - [Official Docs & Quickstarts](#official-docs--quickstarts)
 - [Mirth Extensions](#mirth-extensions)
+- [Tutorials](#tutorials)
 - [Other](#other)
 - [Follow](#follow)
 
@@ -38,13 +39,21 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 ## Official Docs & Quickstarts
 
 - 📖 [Mirth Documentation](https://docs.nextgen.com/bundle/Mirth_User_Guide_41/page/connect/connect/topics/c_Getting_Started_mirth_connect_ug.html) - Official Mirth Connect Documentation.
+- 💡 [Mirth Connect examples](https://github.com/nextgenhealthcare/connect-examples) - Official Mirth Examples.
+- 📖 [Discussion Forum](https://github.com/nextgenhealthcare/connect/discussions) - Official Forum for Mirth Connect.
 
 ## Mirth Extensions
 
 - 🔧 [Version Control Extension for MirthConnect](https://github.com/kayyagari/git-ext) - Version control for Channels and CodeTemplate.
 - 🔧 [Sync code between environments](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments.
 
+## Tutorials
+
+- 📝 [Mirth Connect Introduction](https://vigyanix.com/blog/mirth-connect-series-introduction/) - Mirth Connect Series Introduction.
+
 ## Other
+
+- 🔧 [HL7 Inspector](https://bitbucket.org/crambow/hl7inspector/wiki/Home) - The HL7 Inspector is a useful open source tool for integration the HL7 Version 2 in a health care environmental.
 
 ## Follow
 
