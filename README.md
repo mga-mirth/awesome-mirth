@@ -40,7 +40,6 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 - 📖 [Mirth Documentation](https://docs.nextgen.com/bundle/Mirth_User_Guide_41/page/connect/connect/topics/c_Getting_Started_mirth_connect_ug.html) - Official Mirth Connect Documentation.
 - 💡 [Mirth Connect examples](https://github.com/nextgenhealthcare/connect-examples) - Official Mirth Examples.
-- 📖 [Discussion Forum](https://github.com/nextgenhealthcare/connect/discussions) - Official Forum for Mirth Connect.
 
 ## Mirth Extensions
 
@@ -53,6 +52,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 ## Other
 
+- 🔧 [Mirthix](https://github.com/cboyer/mirth-zabbix) - Zabbix protocol implementation for Mirth Connect integration engine.
 - 🔧 [HL7 Inspector](https://bitbucket.org/crambow/hl7inspector/wiki/Home) - The HL7 Inspector is a useful open source tool for integration the HL7 Version 2 in a health care environmental.
 
 ## Follow
@@ -63,4 +63,5 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 ### Community
 
+- 📖 [Discussion Forum](https://github.com/nextgenhealthcare/connect/discussions) - Official Forum for Mirth Connect.
 - [This Awesome List](https://github.com/mga-mirth/awesome-mirth)
