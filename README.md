@@ -61,6 +61,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 - 🔧 [Mirthix](https://github.com/cboyer/mirth-zabbix) - Zabbix protocol implementation for Mirth Connect integration engine.
 - 🔧 [HL7 Inspector](https://bitbucket.org/crambow/hl7inspector/wiki/Home) - The HL7 Inspector is a useful open source tool for integration the HL7 Version 2 in a health care environmental.
 - 🔧 [VSCode Connect](https://github.com/tonygermano/connect-vscode) - Environment for testing scripts using the Rhino engine in a pseudo-Mirth environment. 
+- 💡 [Examples for Educational Purposes](https://github.com/ppazos/cabolabs-mirth) - This project has activities for the Mirth Connect Interoperability Workshop designed by CaboLabs.
 
 ## Follow
 
