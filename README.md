@@ -50,6 +50,11 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 - 📝 [Mirth Connect Introduction](https://vigyanix.com/blog/mirth-connect-series-introduction/) - Mirth Connect Series Introduction.
 
+## Client API
+
+- 🔧 [Python Interface](https://github.com/renalreg/python-mirth-client) - A basic async Python interface for Mirth Connect.
+- 🔧 [C# API](https://github.com/feathersct/MirthConnect) - MirthConnect API for c#.net mirth 3.8+.
+
 ## Other
 
 - 🔧 [Mirthix](https://github.com/cboyer/mirth-zabbix) - Zabbix protocol implementation for Mirth Connect integration engine.
