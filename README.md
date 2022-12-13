@@ -40,6 +40,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 - 📖 [Mirth Documentation](https://docs.nextgen.com/bundle/Mirth_User_Guide_41/page/connect/connect/topics/c_Getting_Started_mirth_connect_ug.html) - Official Mirth Connect Documentation.
 - 💡 [Mirth Connect examples](https://github.com/nextgenhealthcare/connect-examples) - Official Mirth Examples.
+- 🔧 [Docker Images](https://github.com/nextgenhealthcare/connect-docker) - Official Docker Image.
 
 ## Mirth Extensions
 
