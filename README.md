@@ -23,7 +23,9 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 - [Official Docs & Quickstarts](#official-docs--quickstarts)
 - [Mirth Extensions](#mirth-extensions)
 - [Tutorials](#tutorials)
+- [Client API](#client-api)
 - [Other](#other)
+- [Template or Example](#template-or-example)
 - [Follow](#follow)
 
 **Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video · 🔊 podcasts
@@ -50,6 +52,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 ## Tutorials
 
 - 📝 [Mirth Connect Introduction](https://vigyanix.com/blog/mirth-connect-series-introduction/) - Mirth Connect Series Introduction.
+- 📝 [Invoke Custom Java Code](https://github.com/nextgenhealthcare/connect/wiki/Invoke-Custom-Java-Code) - Call Java code from JavaScript Writer.
 
 
 ## Client API
