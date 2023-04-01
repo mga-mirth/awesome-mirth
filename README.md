@@ -25,6 +25,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 - [Tutorials](#tutorials)
 - [Client API](#client-api)
 - [Other](#other)
+- [Template or Example](#template-example)
 - [Follow](#follow)
 
 **Legend**: 📝 blog posts · 💡 examples · 📖 docs · 🔌 libraries · 🔧 tools · 📹 talks/video · 🔊 podcasts
