@@ -58,7 +58,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 - 🔧 [Python Interface](https://github.com/renalreg/python-mirth-client) - A basic async Python interface for Mirth Connect.
 - 🔧 [C# API](https://github.com/feathersct/MirthConnect) - MirthConnect API for c#.net mirth 3.8+.
-- 🔧 [PowerShell](https://github.com/naql/PS_Mirth) - PowerShell wrapper for the Mirth REST API (v3.6+)
+- 🔧 [PowerShell](https://github.com/naql/PS_Mirth) - PowerShell wrapper for the Mirth REST API (v3.6+).
 
 ## Other
 
