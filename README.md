@@ -54,17 +54,17 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 - 📝 [Mirth Connect Introduction](https://vigyanix.com/blog/mirth-connect-series-introduction/) - Mirth Connect Series Introduction.
 - 📝 [Invoke Custom Java Code](https://github.com/nextgenhealthcare/connect/wiki/Invoke-Custom-Java-Code) - Call Java code from JavaScript Writer.
 
-
 ## Client API
 
 - 🔧 [Python Interface](https://github.com/renalreg/python-mirth-client) - A basic async Python interface for Mirth Connect.
 - 🔧 [C# API](https://github.com/feathersct/MirthConnect) - MirthConnect API for c#.net mirth 3.8+.
+- 🔧 [PowerShell](https://github.com/naql/PS_Mirth) - PowerShell wrapper for the Mirth REST API (v3.6+).
 
 ## Other
 
 - 🔧 [Mirthix](https://github.com/cboyer/mirth-zabbix) - Zabbix protocol implementation for Mirth Connect integration engine.
 - 🔧 [HL7 Inspector](https://bitbucket.org/crambow/hl7inspector/wiki/Home) - The HL7 Inspector is a useful open source tool for integration the HL7 Version 2 in a health care environmental.
-- 🔧 [VSCode Connect](https://github.com/tonygermano/connect-vscode) - Environment for testing scripts using the Rhino engine in a pseudo-Mirth environment. 
+- 🔧 [VSCode Connect](https://github.com/tonygermano/connect-vscode) - Environment for testing scripts using the Rhino engine in a pseudo-Mirth environment.
 - 🔧 [Mirth-Jest-Framework](https://github.com/vibinernesto/Mirth-Jest-Framework) - repository to perform unit-testing for mirth scripts outside/inside mirthconnect tool.
 
 ## Template or Example
