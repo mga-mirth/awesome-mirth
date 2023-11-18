@@ -48,6 +48,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 
 - 🔧 [Version Control Extension for MirthConnect](https://github.com/kayyagari/git-ext) - Version control for Channels and CodeTemplate.
 - 🔧 [Sync code between environments](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments.
+- 🔧 [Dashboard enhancements](https://github.com/jonbartels/mirth-connect-dashboard-count) - Display new columns for channel's count, listening ports on Dashboard.
 
 ## Tutorials
 
