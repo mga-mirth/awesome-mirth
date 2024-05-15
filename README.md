@@ -56,6 +56,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 - 📝 [Mirth Connect Introduction](https://vigyanix.com/blog/mirth-connect-series-introduction/) - Mirth Connect Series Introduction.
 - 📝 [Invoke Custom Java Code](https://github.com/nextgenhealthcare/connect/wiki/Invoke-Custom-Java-Code) - Call Java code from JavaScript Writer.
 - 📝 [Code template for TLS](https://github.com/pacmano1/mirthstunnel) - For users without the TLS plugin, this code template library uses stunnel to enable in and outbound TLS connections. It is an attempt to ease the configuration of stunnel and do it on the fly.
+- 📝 [Create SOAP WebService](https://cboyer.github.io/developpement/mirth-webservice-soap/) - French article to create a custom SOAP Webservice with java
 
 ## Client API
 
