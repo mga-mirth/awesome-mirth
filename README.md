@@ -49,11 +49,13 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 - 🔧 [Version Control Extension for MirthConnect](https://github.com/kayyagari/git-ext) - Version control for Channels and CodeTemplate.
 - 🔧 [Sync code between environments](https://github.com/SagaHealthcareIT/mirthsync) - Mirth Connect tool for syncing code via source control between environments.
 - 🔧 [Dashboard enhancements](https://github.com/jonbartels/mirth-connect-dashboard-count) - Display new columns for channel's count, listening ports on Dashboard.
+- 🔧 [Mirth Connect Privacy Plugin](https://github.com/tonygermano/mirth-user-privacy-plugin) - This plugin for Mirth Connect performs two functions to prevent exposing details of your server and Personal Data to NextGen Healthcare.
 
 ## Tutorials
 
 - 📝 [Mirth Connect Introduction](https://vigyanix.com/blog/mirth-connect-series-introduction/) - Mirth Connect Series Introduction.
 - 📝 [Invoke Custom Java Code](https://github.com/nextgenhealthcare/connect/wiki/Invoke-Custom-Java-Code) - Call Java code from JavaScript Writer.
+- 📝 [Code template for TLS](https://github.com/pacmano1/mirthstunnel) - For users without the TLS plugin, this code template library uses stunnel to enable in and outbound TLS connections. It is an attempt to ease the configuration of stunnel and do it on the fly.
 
 ## Client API
 
