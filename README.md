@@ -8,7 +8,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Mirth [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mga-mirth/awesome-mirth/actions/workflows/mint.yml/badge.svg)](https://github.com/mga-mirth/awesome-mirth/actions/workflows/mint.yml)
+# Awesome Mirth [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/mga-mirth/awesome-mirth/actions/workflows/mint.yml/badge.svg)](https://github.com/mga-mirth/awesome-mirth/actions/workflows/mint.yml) [![Track Awesome List](https://www.trackawesomelist.com/mga-mirth/awesome-mirth/)
 
 <!-- subtitle -->
 
