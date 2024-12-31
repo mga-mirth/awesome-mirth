@@ -70,6 +70,7 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 - 🔧 [HL7 Inspector](https://bitbucket.org/crambow/hl7inspector/wiki/Home) - The HL7 Inspector is a useful open source tool for integration the HL7 Version 2 in a health care environmental.
 - 🔧 [VSCode Connect](https://github.com/tonygermano/connect-vscode) - Environment for testing scripts using the Rhino engine in a pseudo-Mirth environment.
 - 🔧 [Mirth-Jest-Framework](https://github.com/vibinernesto/Mirth-Jest-Framework) - repository to perform unit-testing for mirth scripts outside/inside mirthconnect tool.
+- 🔧 [Mirth-Migrator](https://github.com/odoodo/Mirth-Migrator) - Mirth Migrator is a web-based tool that automates the transfer of Mirth Connect Enterprise Service Bus channels and code templates between Mirth environments.
 
 ## Template or Example
 
@@ -85,4 +86,4 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 ### Community
 
 - 📖 [Discussion Forum](https://github.com/nextgenhealthcare/connect/discussions) - Official Forum for Mirth Connect.
-- [This Awesome List](https://github.com/mga-mirth/awesome-mirth)
+- 📖 [This Awesome List](https://github.com/mga-mirth/awesome-mirth)
