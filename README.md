@@ -17,6 +17,8 @@ The most **up to date** list of Mirth docs, talks, tools, examples & articles th
 </div>
 <!-- toc -->
 
+> **IMPORTANT INFORMATION** Since the March 19, 2025 Mirth Connect is not open-source anymore, a fork have been available at the [Open Integration Engine](https://github.com/OpenIntegrationEngine/engine) organisation page
+
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
